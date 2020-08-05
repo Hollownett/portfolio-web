@@ -1,0 +1,35 @@
+{
+  "header": {
+    "title": "Konstantin Akutyonok",
+    "subtitle1": "Web development",
+    "subtitle2": "MERN stack"
+  },
+  "navbar": {
+    "portfolio": "Portfolio",
+    "sideMenu": {
+      "home": "Home",
+      "resume": "Resume",
+      "contacts": "Contacts"
+    }
+  },
+  "contact": {
+    "titleForm": "contact me",
+    "name": "Name",
+    "email": "Email",
+    "message": "message",
+    "submitButton": "contact me"
+  },
+  "resume": {
+    "header": "My skills",
+    "hardSkills": " Hard Skills",
+    "contolSystems": "Distributed version-control system",
+    "softSkills": "Soft Skills",
+    "english": "English",
+    "sociability": "Sociability",
+    "sociabilityDesc": " Easy to communicate with other people",
+    "stayFocusedOnTask": " Stay focused on task",
+    "stayFocusedOnTaskDesc": "Always focused on solving a problem",
+    "desireToGrowAsSpecialist": "Desire to grow as specialist",
+    "desireToGrowAsSpecialistDesc": "Сonstantly learn new things and develop as a specialist"
+  }
+}

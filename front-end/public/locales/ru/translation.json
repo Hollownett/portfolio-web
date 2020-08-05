@@ -1,0 +1,36 @@
+{
+  "header": {
+    "title": "Константин Акутёнок",
+    "subtitle1": "Веб разработка",
+    "subtitle2": "MERN стак"
+  },
+
+  "navbar": {
+    "portfolio": "Портфолио",
+    "sideMenu": {
+      "home": "Домой",
+      "resume": "Резюме",
+      "contacts": "Контакты"
+    }
+  },
+  "contact": {
+    "titleForm": "Связаться со мной",
+    "name": "Имя",
+    "email": "Email",
+    "message": "Cообщение",
+    "submitButton": "Отправить письмо"
+  },
+  "resume": {
+    "header": "Мои навыки",
+    "hardSkills": "Хард навыки",
+    "contolSystems": "Системы контроля версий",
+    "softSkills": "Софт навыки",
+    "english": "Английский",
+    "sociability": "Коммуникативность",
+    "sociabilityDesc": "Легко налаживаю контакты с людьми",
+    "stayFocusedOnTask": "Остаюсь сфокусированным на задании",
+    "stayFocusedOnTaskDesc": "Всегда сосредоточен на решении проблемы",
+    "desireToGrowAsSpecialist": "Желание расти как специалист",
+    "desireToGrowAsSpecialistDesc": "Всегда изучаю что-то новое и равиваюсь как специалист"
+  }
+}
